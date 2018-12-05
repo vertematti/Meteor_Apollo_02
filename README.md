@@ -1,6 +1,6 @@
 # Meteor Apollo 02
 
-Projeto de exemplo em Meteor/React com Apollo Server e Apollo Client.
+Projeto de exemplo em Meteor/React com Apollo Server e protocolo DDP.
 
 Data de Upload e teste 2018/12/04.
 
